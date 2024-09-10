@@ -6,3 +6,6 @@ Q2: What field could data science be applied to? Give and Example and how it mig
 
 Answer: Data science can be applied to online shopping platforms such as Amazon, and it can help give marketers insights into what products are the most popular
 
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging maintains branch commit history by combining the two together. Rebases, however, rewrites the history by placing the commits on the rebased branched on top of the base branch.
