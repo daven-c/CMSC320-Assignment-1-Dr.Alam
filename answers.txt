@@ -9,3 +9,7 @@ Answer: Data science can be applied to online shopping platforms such as Amazon,
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging maintains branch commit history by combining the two together. Rebases, however, rewrites the history by placing the commits on the rebased branched on top of the base branch.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my ability to transform and mutate data to observe more trends and relationships
